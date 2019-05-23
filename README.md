@@ -9,4 +9,4 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 3. Paste the code from antipopup.js
 4. Go to settings of the script
 5. Make sure this looks the same for you:  
-![](settings.png)
+![](settings.PNG)
