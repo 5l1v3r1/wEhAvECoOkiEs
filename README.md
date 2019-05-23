@@ -12,7 +12,7 @@ Will look like this:
   
 ## Notes:
 * If you find popups that are not detected yet, feel free to message me on here, i'll work on them
-
+* I'm working on making it a chrome extension, which works quite well but it cant be turned off yet, so gimme a bit :}
 ## Installation:  
 1. Get Tampermonkey  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
