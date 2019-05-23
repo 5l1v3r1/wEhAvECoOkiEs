@@ -56,6 +56,3 @@
 
 		runTimeout();
 })()
-
-
-document.querySelectorAll('button')
