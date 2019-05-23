@@ -1,7 +1,7 @@
 # wEhAvECoOkiEs
 ![size](https://img.shields.io/github/size/ak-wa/wEhAvECoOkiEs/antipopup.js.svg)
 ![lastcommit](https://img.shields.io/github/last-commit/ak-wa/wEhAvECoOkiEs.svg)
-![follow](https://img.shields.io/github/followers/ak-wa.svg?label=Follow&style=social)
+![follow](https://img.shields.io/github/followers/ak-wa.svg?label=Follow&style=social)  
 A bit of javascript for feeding Tampermonkey to get rid of those "Please accept that we use cookies" popups  
 
 Will look like this:
