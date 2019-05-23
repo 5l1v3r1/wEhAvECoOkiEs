@@ -4,6 +4,11 @@ A bit of javascript for feeding Tampermonkey to get rid of those "Please accept 
 Will look like this:
 ![](popup.gif)
 
+## Usage:
+* just install it & let it run while browsing, enjoy! ツ
+  
+## Notes:
+* If you find popups that are not detected yet, feel free to message me on here, i'll work on them
 
 ## Installation:  
 1. Get Tampermonkey  
