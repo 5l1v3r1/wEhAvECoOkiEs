@@ -1,5 +1,7 @@
 # wEhAvECoOkiEs
 A bit of javascript for feeding Tampermonkey to get rid of those "Please accept that we use cookies" popups  
+
+Will look like this:
 ![](popup.gif)
 
 
